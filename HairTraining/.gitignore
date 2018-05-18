@@ -1,0 +1,5 @@
+*.pyc
+*.group
+*.dump
+*.anim*
+local_para*.py

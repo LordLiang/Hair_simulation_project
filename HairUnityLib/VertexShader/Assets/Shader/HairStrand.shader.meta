@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 14592c349a206744bb1ffbe079aaf1ff
+timeCreated: 1502442363
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _ScatteringMap: {fileID: 2800000, guid: b9e0fd56d60eb461db62517370e179b1, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
